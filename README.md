@@ -1,6 +1,6 @@
-# vCustomers
 
-> Simple customer manager frontend to be used with the [SlimPHP RESTful API](https://github.com/bradtraversy/slimapp)
+
+> Simple formula 1 driver manager frontend to be used with the [SlimPHP RESTful API](https://github.com/BlendiL/slim-restAPI)
 
 ## Installation
 
